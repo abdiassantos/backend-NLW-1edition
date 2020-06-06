@@ -9,25 +9,7 @@ app.get('/users', (request, response) => {
         'Diego',
         'Abdias',
         'Andressa',
-        'Eva',
-        'Jéssica',
-        'Alessandra',
-        'José',
-        'Jucimar',
-        'Andréia',
-        'Felipe',
-        'André',
-        'Rodrigo',
-        'Paulo',
-        'Mariana',
-        'Lia',
-        'Aline',
-        'Maria',
-        'Alice',
-        'Pedro',
-        'Adriano',
-        'Marcelo',
-        'Marina'
+        'Eva'
     ]);
 });
 
